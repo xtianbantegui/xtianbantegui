@@ -1,5 +1,5 @@
 <h1 align="center">Hello there! 👋 I am Moses Christian Bantegui</h1>
-<h3 align="center">🚀 SK Chairman | Tech Enthusiast | Student Leader</h3>
+<h3 align="center">🚀 Tech Enthusiast</h3>
 
 ---
 
