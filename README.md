@@ -5,7 +5,7 @@
 
 ### 📢 **Connect with me**  
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/yourprofile" target="_blank"><img src="https://www.linkedin.com/in/moses-christian-bantegui-0291553b6/"></a>
   <a href="https://github.com/mosesbantegui" target="_blank"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
   <a href="https://www.instagram.com/yourprofile" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://twitter.com/yourprofile" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
